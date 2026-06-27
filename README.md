@@ -6,7 +6,7 @@ This project analyzes Superstore sales data using Microsoft Excel. The objective
 
 Dashboard Preview
 
-(dashboard.png)
+![Excel Sales Dashboard](dashboard.png)
 
 Objectives
 
